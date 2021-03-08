@@ -1,0 +1,38 @@
+form{
+    background-color: white;
+    border: 1px solid black;
+}
+form{
+    text-align: center;
+}
+body{
+    background-color: gray;
+    border: 1px solid black;
+    text-align: center;
+}
+img{
+    align-self: center;
+}
+.margins-padding{
+      margin-top: 5px;
+      margin-right: 250px;
+      margin-bottom: 5px;
+      margin-left: 200px;
+    padding: 5px 5px 5px 10px; 
+  }
+  .footer{
+    margin-top: 5px;
+      margin-right: 250px;
+      margin-bottom: 5px;
+      margin-left: 200px;
+    padding: 5px 5px 5px 10px;  
+    background-color: white;
+  }
+  .margins-padding-button{
+    margin-top: 5px;
+    margin-right: 415px;
+    margin-bottom: 5px;
+    margin-left: 368px;
+  padding: 5px 5px 5px 10px; 
+  background-color: blue;
+}
